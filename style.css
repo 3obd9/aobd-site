@@ -8,7 +8,7 @@ body{
 h1{
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-
+  font-size: 80px; 
   color: #A8EB12;
 }
 h3{
@@ -19,8 +19,8 @@ h3{
   color: #A8EB12;
 }
 img{
-  height: 500px;
-  width: 500px;
+  height: 450px;
+  width: 450px;
   border-radius: 400px;
 
 }
@@ -71,5 +71,5 @@ a:hover{
 }
 .copyright:hover{
   color: #A8EB12;
-  padding-bottom: 600px;
+  padding-bottom: 1000px;
 } 
