@@ -8,7 +8,7 @@ body{
 h1{
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: 90px; 
+  font-size: 80px; 
   color: #A8EB12;
 }
 h3{
@@ -19,14 +19,14 @@ h3{
   color: #A8EB12;
 }
 img{
-  height: 250px;
-  width: 250px;
+  height: 150px;
+  width: 150px;
   border-radius: 400px;
 }
 p{
     margin: auto;
     color: #D5FFD1;
-    font-size: 45px;
+    font-size: 60px;
 }
 a{
   color: #D5FFD1;
@@ -67,7 +67,7 @@ a:hover{
 .copyright{
   width: 200px;
   padding-top: 40px;
-  margin-bottom: 200px;
+  margin-bottom: 100px;
 }
 .copyright:hover{
   color: #A8EB12;
