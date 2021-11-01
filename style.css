@@ -8,31 +8,29 @@ body{
 h1{
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: 80px; 
+  font-size: 90px; 
   color: #A8EB12;
 }
 h3{
   padding-left: 40px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: 50px;
+  font-size: 60px;
   color: #A8EB12;
 }
 img{
-  height: 450px;
-  width: 450px;
+  height: 350px;
+  width: 350px;
   border-radius: 400px;
-
 }
 p{
     margin: auto;
     color: #D5FFD1;
-    font-size: 25px;
+    font-size: 35px;
 }
 a{
   color: #D5FFD1;
   text-decoration: none;
-
 }
 a:hover{
   color: #A8EB12;
