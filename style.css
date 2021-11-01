@@ -67,9 +67,8 @@ a:hover{
 }
 .copyright{
   width: 200px;
-  padding: 40px 0 100px 0;
+  padding: 40px 0 1000px 0;
 }
 .copyright:hover{
   color: #A8EB12;
-  padding-bottom: 1000px;
 } 
