@@ -15,18 +15,18 @@ h3{
   padding-left: 40px;
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: 60px;
+  font-size: 55px;
   color: #A8EB12;
 }
 img{
-  height: 350px;
-  width: 350px;
+  height: 250px;
+  width: 250px;
   border-radius: 400px;
 }
 p{
     margin: auto;
     color: #D5FFD1;
-    font-size: 35px;
+    font-size: 45px;
 }
 a{
   color: #D5FFD1;
@@ -38,6 +38,7 @@ a:hover{
 /* class section */
 .p{
   padding-left: 40px;
+  font-size: 35px;
 }
 .social{
   margin: auto;
@@ -50,7 +51,7 @@ a:hover{
   padding-top: 1px;
   padding-bottom: 20px;
   border-radius: 20px;
-  width: 700px;
+  width: 750px;
   margin: auto;
   margin-bottom: 30px;
 }
@@ -60,7 +61,7 @@ a:hover{
   padding-top: 1px;
   padding-bottom: 20px;
   border-radius: 20px;
-  width: 700px;
+  width: 750px;
   margin: auto;
 }
 .copyright{
