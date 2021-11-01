@@ -3,12 +3,12 @@ body{
      #004769, #00888e, #00c974, #b0ff00);
   font-family: 'IBM Plex Sans Devanagari', sans-serif;
   text-align: center;
-  margin-top: 80px;
+  margin-top: 150px;
 }
 h1{
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  font-size: 80px; 
+  font-size: 75px; 
   color: #A8EB12;
 }
 h3{
@@ -19,14 +19,14 @@ h3{
   color: #A8EB12;
 }
 img{
-  height: 250px;
-  width: 250px;
+  height: 350px;
+  width: 350px;
   border-radius: 400px;
 }
 p{
     margin: auto;
     color: #D5FFD1;
-    font-size: 45px;
+    font-size: 40px;
 }
 a{
   color: #D5FFD1;
